@@ -1,0 +1,244 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "name": "Dell UltraSharp U2415 24-Inch Monitor",
+        "price": 299.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 2,
+        "name": "LG 27GL83A-B 27 Inch Ultragear QHD IPS Gaming Monitor",
+        "price": 379.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 3,
+        "name": "ASUS TUF Gaming VG27AQ 27” Monitor",
+        "price": 429.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 4,
+        "name": "BenQ PD2700U 27 inch 4K Monitor",
+        "price": 499.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 5,
+        "name": "Acer Predator X27 Pbmiphzx 27 Inch UHD Monitor",
+        "price": 1499.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 6,
+        "name": "Samsung Odyssey G7 32 inch Gaming Monitor",
+        "price": 799.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 7,
+        "name": "ViewSonic VX3276-MHD 32 Inch 1080p Monitor",
+        "price": 229.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 8,
+        "name": "AOC C27G2Z 27 inch Curved Gaming Monitor",
+        "price": 299.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 9,
+        "name": "HP 27f 27-Inch 1080p IPS LED Monitor",
+        "price": 199.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 10,
+        "name": "Dell S2719DGF 27 inch LED QHD GSync Monitor",
+        "price": 349.99,
+        "category": "Monitor"
+      },
+      {
+        "id": 11,
+        "name": "Intel Core i9-11900K Desktop Processor",
+        "price": 569.99,
+        "category": "Processador"
+      },
+      {
+        "id": 12,
+        "name": "AMD Ryzen 9 5950X Desktop Processor",
+        "price": 799.99,
+        "category": "Processador"
+      },
+      {
+        "id": 13,
+        "name": "Intel Core i7-11700K Desktop Processor",
+        "price": 409.99,
+        "category": "Processador"
+      },
+      {
+        "id": 14,
+        "name": "AMD Ryzen 7 5800X Desktop Processor",
+        "price": 399.99,
+        "category": "Processador"
+      },
+      {
+        "id": 15,
+        "name": "Intel Core i5-11600K Desktop Processor",
+        "price": 269.99,
+        "category": "Processador"
+      },
+      {
+        "id": 16,
+        "name": "AMD Ryzen 5 5600X Desktop Processor",
+        "price": 299.99,
+        "category": "Processador"
+      },
+      {
+        "id": 17,
+        "name": "Intel Core i3-10100 Desktop Processor",
+        "price": 119.99,
+        "category": "Processador"
+      },
+      {
+        "id": 18,
+        "name": "AMD Ryzen 3 3300X Desktop Processor",
+        "price": 139.99,
+        "category": "Processador"
+      },
+      {
+        "id": 19,
+        "name": "Intel Pentium Gold G6400 Desktop Processor",
+        "price": 69.99,
+        "category": "Processador"
+      },
+      {
+        "id": 20,
+        "name": "AMD Athlon 3000G Desktop Processor",
+        "price": 64.99,
+        "category": "Processador"
+      },
+      {
+        "id": 21,
+        "name": "NVIDIA GeForce RTX 3080 Ti",
+        "price": 1499.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 22,
+        "name": "AMD Radeon RX 6900 XT",
+        "price": 999.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 23,
+        "name": "NVIDIA GeForce RTX 3070",
+        "price": 999.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 24,
+        "name": "AMD Radeon RX 6800 XT",
+        "price": 649.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 25,
+        "name": "NVIDIA GeForce RTX 3060 Ti",
+        "price": 399.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 26,
+        "name": "AMD Radeon RX 6700 XT",
+        "price": 479.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 27,
+        "name": "NVIDIA GeForce GTX 1650",
+        "price": 159.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 28,
+        "name": "AMD Radeon RX 5600 XT",
+        "price": 299.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 29,
+        "name": "NVIDIA GeForce GT 1030",
+        "price": 89.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 30,
+        "name": "AMD Radeon RX 550",
+        "price": 89.99,
+        "category": "Placa de Video"
+      },
+      {
+        "id": 31,
+        "name": "ASUS ROG Maximus XIII Hero Z590",
+        "price": 499.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 32,
+        "name": "Gigabyte AORUS X570 Master",
+        "price": 369.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 33,
+        "name": "MSI MPG B550 Gaming Edge WiFi",
+        "price": 169.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 34,
+        "name": "ASRock B460M Pro4",
+        "price": 79.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 35,
+        "name": "Gigabyte H410M S2H",
+        "price": 69.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 36,
+        "name": "ASUS TUF Gaming B460M-PLUS",
+        "price": 119.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 37,
+        "name": "MSI B450 TOMAHAWK MAX",
+        "price": 114.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 38,
+        "name": "ASRock A320M-HDV R4.0",
+        "price": 54.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 39,
+        "name": "Gigabyte GA-H110M-S2H",
+        "price": 44.99,
+        "category": "Placa Mãe"
+      },
+      {
+        "id": 40,
+        "name": "ASUS PRIME A320M-K",
+        "price": 64.99,
+        "category": "Placa Mãe"
+      }
+    ]
+  }
